@@ -19,3 +19,5 @@ h3. subsubheading
 
 
 "this is a link":other_page
+
+And [[test internal page|this]] is supposed to be an internal link.
